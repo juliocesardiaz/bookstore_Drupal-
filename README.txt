@@ -1,4 +1,19 @@
 
+Administrator:
+username: books
+password: b00ksbooks
+
+Reviewer:
+username: reviewer
+password: 00000
+
+
+Database Name:
+bookstore
+
+
+--------------------------------
+
 CONTENTS OF THIS FILE
 ---------------------
 
